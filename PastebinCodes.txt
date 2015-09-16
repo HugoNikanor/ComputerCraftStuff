@@ -1,0 +1,2 @@
+aDJ8e90J	v.0.9		-For a Turtle, allows quick acces to different basic funcitons.
+dQBnG36i	v Beta 1.0	-Makes a Turtle dig a quarry hole, this version lacks reufeling functions, some breakpoints, cleaned up code. And still has debug tools active
